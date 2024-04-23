@@ -1,0 +1,7 @@
+{
+  "cors_origins": [
+    "*"
+  ],
+  "database_uri": "postgresql://postgres:postgres@127.0.0.1:5432/intrusion_db"
+
+}
